@@ -1,8 +1,8 @@
 const CACHE_NAME = 'momentum-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  '/momentum/',
+  '/momentum/index.html',
+  '/momentum/manifest.json',
   'https://cdn-icons-png.flaticon.com/512/590/590510.png',
   'https://cdn.tailwindcss.com',
   'https://unpkg.com/lucide@0.263.0/dist/umd/lucide.min.js',
