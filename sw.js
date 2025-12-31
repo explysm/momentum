@@ -3,7 +3,7 @@ const urlsToCache = [
   '/momentum/',
   '/momentum/index.html',
   '/momentum/manifest.json',
-  'https://res.cloudinary.com/dhptbygpt/image/upload/v1767139108/vksyrnytnacivph57iyl.png',
+  'https://i.ibb.co/G4dVcPGQ/Untitled16.png',
   'https://cdn.tailwindcss.com',
   'https://unpkg.com/lucide@0.263.0/dist/umd/lucide.min.js',
   'https://unpkg.com/react@18.2.0/umd/react.production.min.js',
